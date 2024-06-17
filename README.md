@@ -1,6 +1,6 @@
 # Top Ports Wordlist
 
-This repository contains a curated list of the most popular ports, ranked by their frequency of use. This list is particularly useful for security professionals and researchers performing network fuzzing or using tools like BurpSuite to test the security of web applications and networks.
+This repository contains a curated list of the top 1000 most popular ports, ranked by their frequency of use. This list is particularly useful for security professionals and researchers performing network fuzzing or using tools like BurpSuite to test the security of web applications and networks.
 
 ## Usage
 
